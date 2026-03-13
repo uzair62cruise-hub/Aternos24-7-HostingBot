@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "FriendsWorld247.aternos.me",
+    "port": 49543,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "izyan is mota",
+        "arqam ki mkc",
         "I like to play Minecraft!"
       ]
     },
